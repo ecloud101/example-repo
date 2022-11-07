@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/eclnz/9551d4b6-c8a0-4372-bc93-0aab845ba7bb/f8ee48a9-7d8a-4ca2-b65c-9874d6b5f447/_apis/work/boardbadge/630d0ec1-3f19-442c-83f9-e278f695ec29)](https://dev.azure.com/eclnz/9551d4b6-c8a0-4372-bc93-0aab845ba7bb/_boards/board/t/f8ee48a9-7d8a-4ca2-b65c-9874d6b5f447/Microsoft.RequirementCategory)
 This is a sample repo, hello world !
